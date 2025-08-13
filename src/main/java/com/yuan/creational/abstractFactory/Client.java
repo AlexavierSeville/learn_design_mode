@@ -1,7 +1,7 @@
 package com.yuan.creational.abstractFactory;
 
 /**
- * @author LXY
+ * @author Yuan
  * @version 1.0
  * @date 2025-08-12 17:43:19
  * @className Client
