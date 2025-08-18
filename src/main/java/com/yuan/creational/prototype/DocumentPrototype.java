@@ -1,7 +1,7 @@
 package com.yuan.creational.prototype;
 
 /**
- * @author LXY
+ * @author Yuan
  * @version 1.0
  * @date 2025-08-15 11:40:20
  * @className DocumentPrototype
