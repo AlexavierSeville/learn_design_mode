@@ -1,7 +1,7 @@
 package com.yuan.structural.bridge;
 
 /**
- * @author LXY
+ * @author Yuan
  * @version 1.0
  * @date 2025-08-22 17:08:46
  * @className Message
